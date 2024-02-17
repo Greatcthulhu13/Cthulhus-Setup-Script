@@ -7,7 +7,7 @@ sudo nix-channel --update
 sudo nix-env -u
 
 # Install favorite programs from Nixpkgs
-sudo nix-env -iA git neofetch lolcat firefox thunderbird konsole kate audacity speedtest-cli grep sed curl mpv aria2 yt-dlp ffmpeg fzf patch ani-skip timeshift steam lutris vlc kdenlive qbittorrent nano libreoffice
+sudo nix-env -iA git neofetch lolcat firefox thunderbird konsole kate audacity speedtest-cli grep sed curl mpv aria2c yt-dlp ffmpeg fzf patch ani-skip timeshift steam lutris vlc kdenlive qbittorrent nano libreoffice
 
 # Add additional configuration steps as needed
 git clone "https://github.com/pystardust/ani-cli.git"
