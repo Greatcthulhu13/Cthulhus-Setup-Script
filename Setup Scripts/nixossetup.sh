@@ -1,0 +1,18 @@
+#!/bin/bash
+
+# Update Nix channels
+sudo nix-channel --update
+
+# Update installed packages
+sudo nix-env -u
+
+# Install favorite programs from Nixpkgs
+sudo nix-env -iA git neofetch lolcat firefox thunderbird konsole kate audacity speedtest-cli grep sed curl mpv aria2 yt-dlp ffmpeg fzf patch ani-cli timeshift steam lutris vlc kdenlive qbittorrent nano libreoffice
+
+# Add additional configuration steps as needed
+git clone "https://github.com/pystardust/ani-cli.git"
+sudo cp ani-cli/ani-cli /usr/local/bin
+rm -rf ani-cli
+
+# Print completion message
+echo "Setup complete!"
