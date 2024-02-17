@@ -34,7 +34,8 @@ of our progress and let you know when we have a resolution.
 We follow a coordinated disclosure policy for security vulnerabilities. We ask that you please do not disclose the vulnerability publicly until we have had a 
 chance to address it. Once the vulnerability has been resolved, we will work with you to determine an appropriate disclosure timeline.
 
-# Responsible Disclosure
+
+# Responsible Disclosure
 
 We encourage responsible disclosure of security vulnerabilities. If you discover a vulnerability in our project, we ask that you:
 
