@@ -1,5 +1,5 @@
 ## Cthulhu's Setup Scripts
-A Linux setup script that installs my favourite programs and other tools
+A collection of Linux setup scripts that will install my favourite programs and other tools
 
 # Available for:
 
