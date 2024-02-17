@@ -13,7 +13,7 @@ sudo apt install -y git neofetch lolcat winehq-stable ani-cli firefox thunderbir
 # Configure preferences
 echo "alias ll='ls -alF'" >> ~/.bashrc
 
-# Additional configuration steps
+# Additional configuration
 git clone "https://github.com/pystardust/ani-cli.git"
 sudo cp ani-cli/ani-cli /usr/local/bin
 rm -rf ani-cli
