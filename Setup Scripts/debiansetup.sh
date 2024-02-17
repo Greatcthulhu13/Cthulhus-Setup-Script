@@ -12,7 +12,7 @@ sudo apt install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-rele
 
 sudo apt install -y  neofetch lolcat winehq-stable ani-cli firefox thunderbird konsole kate audacity speedtest-cli grep sed curl mpv aria2 yt-dlp ffmpeg fzf patch ani-cli timeshift steam lutris vlc kdenlive qbittorrent nano libreoffice
 
-# Configure preferences (example: setting up custom aliases)
+# Configure preferences
 echo "alias ll='ls -alF'" >> ~/.bashrc
 
 # Additional configuration steps
