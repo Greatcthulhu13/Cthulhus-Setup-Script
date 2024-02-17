@@ -1,4 +1,4 @@
-# setup-script
+# Cthulhu's Setup Scripts
 A Linux setup script that installs my favourite programs and other tools
 
 To Install: 
