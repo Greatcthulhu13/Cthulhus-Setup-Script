@@ -1,4 +1,4 @@
-# Contributing to Cthulhu's Setup Script
+# Contributing to Cthulhu's Setup Scripts
 
 Thank you for considering contributing to Cthulhu's Setup Scripts! We appreciate your interest and support in making this project better. Please take a moment to review the following guidelines to ensure a smooth contribution process.
 
