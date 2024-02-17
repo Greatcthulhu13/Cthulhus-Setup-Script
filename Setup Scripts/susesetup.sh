@@ -7,7 +7,7 @@ sudo zypper refresh
 sudo zypper update -y 
 
 # Install favorite programs from official repositories
-sudo zypper install -y git neofetch lolcat firefox thunderbird konsole kate audacity speedtest-cli grep sed curl mpv aria2c ani-skip yt-dlp ffmpeg fzf patch ani-cli timeshift steam lutris vlc kdenlive qbittorrent nano libreoffice
+sudo zypper install -y git neofetch lolcat firefox thunderbird konsole kate audacity speedtest-cli grep sed curl mpv aria2c ani-skip yt-dlp ffmpeg fzf patch timeshift steam lutris vlc kdenlive qbittorrent nano libreoffice
 
 zypper addrepo https://download.copr.fedorainfracloud.org/results/derisis13/ani-cli/opensuse-tumbleweed-x86_64/ ani-cli
 zypper dup
