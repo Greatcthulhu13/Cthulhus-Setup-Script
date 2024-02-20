@@ -4,7 +4,7 @@
 sudo pacman -Syu --noconfirm
 
 # Install favorite programs
-sudo pacman -S --noconfirm git neofetch lolcat firefox thunderbird konsole kate audacity speedtest-cli grep sed curl mpv aria2c yt-dlp ffmpeg fzf patch ani-skip timeshift steam lutris vlc kdenlive qbittorrent nano libreoffice
+sudo pacman -S --noconfirm git neofetch lolcat firefox thunderbird konsole kate audacity speedtest-cli grep sed curl mpv aria2c yt-dlp ffmpeg fzf patch ani-skip timeshift steam lutris vlc kdenlive qbittorrent nano libreoffice mu
 
 sudo yay -S --noconfirm ani-cli
 sudo yay -S --noconfirm ani-cli-git
