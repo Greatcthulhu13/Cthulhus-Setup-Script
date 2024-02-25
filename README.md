@@ -21,7 +21,7 @@ Please note: I primarily use Debain and Red Hat-based distros. Any issues with t
 # Programs and Tools
 
 1. Git
-2. Neofecth
+2. Fastfecth
 3. Lolcat
 4. Mozilla Firefox and Thunderbird
 5. Wine
