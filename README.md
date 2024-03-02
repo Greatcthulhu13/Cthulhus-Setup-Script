@@ -15,9 +15,9 @@ Please note: I primarily use Debain and Red Hat-based distros. Any issues with t
 
 # To Install: 
 
-1. Download 'setup.sh'
-2. Make the script executable by running 'chmod +x setup.sh' in the terminal.
-3. Run the script with ./setup.sh in the terminal
+1. Download '[INSERT OS HERE]setup.sh'
+2. Make the script executable by running 'chmod +x [INSERT OS HERE]setup.sh' in the terminal.
+3. Run the script with ./[INSERT OS HERE]setup.sh in the terminal
 
 # Programs and Tools
 
